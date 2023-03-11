@@ -1,3 +1,3 @@
-# Professional README Generator Starter Code
+# README Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+This README generator will help you answer create professional readmes with ease. Using node, this will ask the user a series of questions through the command line which will then be used to create the readme.
